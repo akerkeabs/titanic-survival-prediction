@@ -49,6 +49,17 @@ Titanic_Survival_Prediction/
 
 ---
 
+
+## **Author:**
+Akerke Absalykova
+
+Data Science Portfolio 2025
+
+[GitHub Profile](https://github.com/akerkeabs)
+
+[LinkedIn](https://www.linkedin.com/in/akerke-absalykova/)
+
+
 ## How to Run
 ```bash
 pip install -r requirements.txt

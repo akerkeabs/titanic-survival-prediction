@@ -58,9 +58,10 @@ jupyter notebook Titanic_Survival_Prediction.ipynb
 
 ---
 
-## Author
+👤 **Author**
 
 Akerke Absalykova
 Data Science Portfolio 2025
-GitHub: https://github.com/akerkeabs
-LinkedIn: https://www.linkedin.com/in/akerke-absalykova/
+🌐 GitHub Profile: https://github.com/akerkeabs
+
+💼 LinkedIn: https://www.linkedin.com/in/akerke-absalykova/

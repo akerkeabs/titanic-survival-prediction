@@ -54,7 +54,8 @@ Titanic_Survival_Prediction/
 pip install -r requirements.txt
 jupyter notebook Titanic_Survival_Prediction.ipynb
 
-Author:
+---
+## Author:
 
 Akerke Absalykova
 Data Science Portfolio 2025

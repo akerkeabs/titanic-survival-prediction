@@ -47,21 +47,22 @@ Titanic_Survival_Prediction/
 ├── requirements.txt
 └── README.md
 
-
 ---
 
-## ▶️ How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook Titanic_Survival_Prediction.ipynb
 
-
 ---
 
-👤 **Author**
+Author
 
 Akerke Absalykova
 Data Science Portfolio 2025
-🌐 GitHub Profile: https://github.com/akerkeabs
+[GitHub Profile](https://github.com/akerkeabs)
 
-💼 LinkedIn: https://www.linkedin.com/in/akerke-absalykova/
+[LinkedIn](https://www.linkedin.com/in/akerke-absalykova/)
+
+
+---
